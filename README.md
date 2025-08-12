@@ -1,5 +1,7 @@
 # POWER-BI-Blinkit-Sales-Analytics
 
+## check out my post on linkedin https://www.linkedin.com/posts/emmanueljirehb_showcasing-power-bi-skills-interactive-dashboard-activity-7335335947519070211-4ENH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEbghGABnNb43icafqxzvdGO2hRcs8oGW8U
+
 ![Slide1](https://github.com/user-attachments/assets/7d2c4dfc-6409-4503-a540-5e04bcb9b4e8)
 
 ![Slide2](https://github.com/user-attachments/assets/14b24c95-94ed-4114-ab2d-c48e06cdf04e)
