@@ -39,7 +39,7 @@
 
 ## 💻 Skills Used
 
-* Power BI | SQL | Power Query
+* Power BI | SQL | Power Query | DAX
 * Data modeling | KPI calculation | Dashboard visualization
 * Process automation & reporting
 
